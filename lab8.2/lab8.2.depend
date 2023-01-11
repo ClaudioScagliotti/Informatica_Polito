@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1544015235 source:c:\users\gekys\desktop\codeblocks\esercitazione\lab8.2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1544453127 source:c:\users\gekys\desktop\codeblocks\esercitazione\settimana 8\lab8.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
