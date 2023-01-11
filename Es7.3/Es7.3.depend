@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1544122798 source:c:\users\wsk01\desktop\esercitazioni a casa\es7.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
