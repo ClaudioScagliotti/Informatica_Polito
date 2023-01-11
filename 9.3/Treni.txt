@@ -1,0 +1,5 @@
+Torino_Porta_Nuova 18.30 Alessandria 19.30
+Alessandria 8.30 Torino 9.30
+Torino_Porta_Nuova 9.30 Lecce 17.30
+Torino_Porta_Susa 12.15 Milano 13.45
+Alessandria 10.30 Genova 11.45
